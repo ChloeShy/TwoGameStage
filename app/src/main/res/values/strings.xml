@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">myGameStage</string>
+    <string name="question">The basket is too many eggs. Carelessly, I dropped the basket. Let me count numbers of eggs and finding out...</string>
+    <string name="confirm">Confirm</string>
+    <string name="question_plant">Exeggcute evolved Exeggcutor after 10 days. Exeggcutor wants to be taller. Drag items to it!</string>
+</resources>
